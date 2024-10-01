@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "EWR",
+    "EWG",
     "   ",
     "   "
   ],
@@ -18,7 +18,7 @@
     ],
     "R": [
       {
-        "item": "mca:rose_gold_ingot"
+        "item": "minecraft:gold_ingot"
       }
     ]
   },
